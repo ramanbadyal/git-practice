@@ -2,5 +2,12 @@ application started
 application had an issue
 this is for the branch check
 
+<<<<<<< HEAD
 ##
 lets see what happens
+=======
+
+
+##
+this is sufficient to cause conflict
+>>>>>>> very-bad
